@@ -1,4 +1,4 @@
-package com.evotie;
+package com.Jtest;
 
 public class Main {
     public static void main(String[] args) {
